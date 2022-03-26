@@ -1,4 +1,4 @@
-This is a **Tensorflow** implementation of my paper:
+This is a **Tensorflow** implementation of our paper:
 
 <a href="https://doi.org/10.3390/diagnostics11010061">Lv, Jun, et al. "PIC-GAN: A Parallel Imaging Coupled Generative Adversarial Network for Accelerated Multi-Channel MRI Reconstruction." Diagnostics, 2021.</a>
 
